@@ -1,8 +1,8 @@
-## Welcome to Path to redemption
+# Welcome to Path to redemption
 
 This is a proof of concept game with only the text window as a graphical interface
 
-# Controls
+## Controls
 
-Arrow keys - move
+Arrow keys - move | 
 Delete - map editor
