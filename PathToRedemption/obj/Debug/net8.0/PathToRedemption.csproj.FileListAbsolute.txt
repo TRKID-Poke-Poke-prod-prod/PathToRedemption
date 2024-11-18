@@ -1,0 +1,14 @@
+C:\Users\lucky\OneDrive\Desktop\Coding\PathToRedemption\bin\Debug\net8.0\PathToRedemption.exe
+C:\Users\lucky\OneDrive\Desktop\Coding\PathToRedemption\bin\Debug\net8.0\PathToRedemption.deps.json
+C:\Users\lucky\OneDrive\Desktop\Coding\PathToRedemption\bin\Debug\net8.0\PathToRedemption.runtimeconfig.json
+C:\Users\lucky\OneDrive\Desktop\Coding\PathToRedemption\bin\Debug\net8.0\PathToRedemption.dll
+C:\Users\lucky\OneDrive\Desktop\Coding\PathToRedemption\bin\Debug\net8.0\PathToRedemption.pdb
+C:\Users\lucky\OneDrive\Desktop\Coding\PathToRedemption\obj\Debug\net8.0\PathToRedemption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucky\OneDrive\Desktop\Coding\PathToRedemption\obj\Debug\net8.0\PathToRedemption.AssemblyInfoInputs.cache
+C:\Users\lucky\OneDrive\Desktop\Coding\PathToRedemption\obj\Debug\net8.0\PathToRedemption.AssemblyInfo.cs
+C:\Users\lucky\OneDrive\Desktop\Coding\PathToRedemption\obj\Debug\net8.0\PathToRedemption.csproj.CoreCompileInputs.cache
+C:\Users\lucky\OneDrive\Desktop\Coding\PathToRedemption\obj\Debug\net8.0\PathToRedemption.dll
+C:\Users\lucky\OneDrive\Desktop\Coding\PathToRedemption\obj\Debug\net8.0\refint\PathToRedemption.dll
+C:\Users\lucky\OneDrive\Desktop\Coding\PathToRedemption\obj\Debug\net8.0\PathToRedemption.pdb
+C:\Users\lucky\OneDrive\Desktop\Coding\PathToRedemption\obj\Debug\net8.0\PathToRedemption.genruntimeconfig.cache
+C:\Users\lucky\OneDrive\Desktop\Coding\PathToRedemption\obj\Debug\net8.0\ref\PathToRedemption.dll
